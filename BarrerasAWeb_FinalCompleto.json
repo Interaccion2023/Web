@@ -1,10 +1,10 @@
 [{
     "id": 0,
     "barreras": [{
-        "titulo_barrera": "xxIdioma de la página no definido ",
+        "titulo_barrera": "Idioma de la página no definido ",
         "visual": {
-            "visual_nombre": "Cesar Cerezooo",
-            "visual_img": "https://raw.githubusercontent.com/Interaccion2023/Web/main/img/cesar-cerezo/Aburrido.png",
+            "visual_nombre": "Cesar Cerezo",
+            "visual_img": "../img/cesar-cerezo/Aburrido.png",
             "visual_subtitulo": "No se ha definido el lenguaje en el que está escrita la página",
             "visual_emocion": "Aburrido",
             "visual_comentario": "Escucho contenido en español, leido en inglés",
@@ -12,7 +12,7 @@
         },
         "bajavision": {
             "bajavision_nombre": null,
-            "bajavision_img": "../../img/blas-blanco/Indiferente.png",
+            "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
             "bajavision_emocion": "Neutro",
             "bajavision_comentario": "A mí no me afecta esta barrera",
