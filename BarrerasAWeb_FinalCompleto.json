@@ -1,7 +1,7 @@
 [{
     "id": 0,
     "barreras": [{
-        "titulo_barrera": "Idioma de la página no definido ",
+        "titulo_barrera": "xxIdioma de la página no definido ",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
             "visual_img": "https://raw.githubusercontent.com/Interaccion2023/Web/main/img/cesar-cerezo/Aburrido.png",
