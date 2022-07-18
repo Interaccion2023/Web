@@ -4,7 +4,7 @@
         "titulo_barrera": "Idioma de la página no definido ",
         "visual": {
             "visual_nombre": "Cesar Cerezooo",
-            "visual_img": "../img/cesar-cerezo/Aburrido.png",
+            "visual_img": "../../img/cesar-cerezo/Aburrido.png",
             "visual_subtitulo": "No se ha definido el lenguaje en el que está escrita la página",
             "visual_emocion": "Aburrido",
             "visual_comentario": "Escucho contenido en español, leido en inglés",
