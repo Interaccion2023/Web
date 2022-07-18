@@ -12,7 +12,7 @@
         },
         "bajavision": {
             "bajavision_nombre": null,
-            "bajavision_img": "../img/blas-blanco/Indiferente.png",
+            "bajavision_img": "https://raw.githubusercontent.com/Interaccion2023/Web/main/img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
             "bajavision_emocion": "Neutro",
             "bajavision_comentario": "A mí no me afecta esta barrera",
